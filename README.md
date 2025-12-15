@@ -25,5 +25,5 @@ A responsive coffee shop website built from a Figma design using HTML, CSS, and 
 https://true-creme-88318450.figma.site
 
 ## Live Demo
-
+https://github.com/MarkBakharovskiiHumber/Coffee-Shop
 
