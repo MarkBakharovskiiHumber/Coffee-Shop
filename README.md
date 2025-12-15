@@ -1,11 +1,29 @@
+# Brew Haven Coffee Shop
 
-  # Coffee Shop Website
+## Description
+A responsive coffee shop website built from a Figma design using HTML, CSS, and JavaScript.
 
-  This is a code bundle for Coffee Shop Website. The original project is available at https://www.figma.com/design/VrfcAHzhhBrVVx3YbpIyUr/Coffee-Shop-Website.
+## Features
+- Responsive design
+- Dynamic menu items
+- Contact form validation
+- Mobile navigation menu
 
-  ## Running the code
+## Technologies Used
+- HTML5
+- CSS3 (Flexbox & Grid)
+- JavaScript (ES6)
 
-  Run `npm i` to install the dependencies.
+## Setup Instructions
+1. Clone the repository
+2. Open index.html in your browser
 
-  Run `npm run dev` to start the development server.
-  
+## Team Members
+- Mark Baharovskii – Design & Development
+
+## Figma Design
+https://true-creme-88318450.figma.site
+
+## Live Demo
+
+
